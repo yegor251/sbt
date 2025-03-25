@@ -1,0 +1,11 @@
+{
+    "amount": 5,
+    "maxLevel": 3,
+    "levelDiffRatio": 1.2,
+    "businessDiffRatio": 1.33,
+    "firstBusiness": {
+        "price": 52500,
+        "profitPerCoin": 0.018,
+        "maxCapacity": 200000
+    }
+}
